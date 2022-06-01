@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?SekmSet=vn7n24fzkq&theme=vue)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Priscilla)](https://git.io/typing-svg)
 
 
