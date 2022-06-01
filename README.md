@@ -5,8 +5,10 @@
 
 Front-End Skills
 
-[![My Skills](https://skillicons.dev/icons?i=reac,redux,tst&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,ts&perline=3)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=figma,ps&theme=light)](https://skillicons.dev)
 
 Back-End Skills
