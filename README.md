@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SekmSet&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SekmSet&theme=monokai)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Priscilla)](https://git.io/typing-svg)
 
