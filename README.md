@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/SekmSet/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Priscilla)](https://git.io/typing-svg)
