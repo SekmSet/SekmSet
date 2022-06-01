@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SekmSet&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sekmset&theme=dracula)
 
-![](https://raw.githubusercontent.com/SekmSet/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sekmset&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sekmset&theme=dracula)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Priscilla)](https://git.io/typing-svg)
