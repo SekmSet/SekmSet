@@ -15,7 +15,7 @@ Back-End Skills
 
 DataBase
 
-[![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
 Deployment
