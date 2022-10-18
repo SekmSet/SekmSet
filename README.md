@@ -1,13 +1,10 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Priscilla+👋)](https://git.io/typing-svg)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sekmset&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sekmset&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sekmset&theme=dracula)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Priscilla)](https://git.io/typing-svg)
-
 
 Front-End Skills
 
