@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[My public progil on Exercism](https://exercism.org/profiles/SekmSet)
+[My public profil on Exercism](https://exercism.org/profiles/SekmSet)
 
 <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)
