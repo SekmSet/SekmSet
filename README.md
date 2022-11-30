@@ -39,9 +39,6 @@ Tools For Code
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
 
 
-
-
-
 <!--
 **SekmSet/SekmSet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,6 +53,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[My public progil on Exercism](https://exercism.org/profiles/SekmSet)
 
 <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)
