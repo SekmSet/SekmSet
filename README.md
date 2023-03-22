@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f8&lines=Hi+there+I+am+Priscilla+👋)](https://git.io/typing-svg)
 
+OPEN TO WORK
+LOOKING FOR A ALTERNSHIP FOR A MASTER 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sekmset&theme=dracula)
 
