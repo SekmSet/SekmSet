@@ -11,29 +11,30 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma,ps&theme=light)](https://skillicons.dev)
 
-Back-End Skills
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f8&lines=Back-end+skills)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=java,php,symphony&theme=light)](https://skillicons.dev)
 
-DataBase
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f8&lines=Database)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
-Deployment
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f8&lines=Deployment)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,azure,docker,firebase)](https://skillicons.dev)
 
-Social Network
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f8&lines=Social-network)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=discord,instagram,linkedin)](https://skillicons.dev)
 
 
-Git
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f8&lines=Git)](https://git.io/typing-svg)
+
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
-Tools For Code
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f8&lines=Tools+for+code)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
 
