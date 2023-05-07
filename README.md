@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sekmset&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sekmset&theme=dracula)
 
-Front-End Skills
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f8&lines=Front-end+skills)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,ts&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
